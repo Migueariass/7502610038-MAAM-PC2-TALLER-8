@@ -1,5 +1,6 @@
 package ejercicio1;
 
+
 class Vehiculo {
     protected String marca;
     protected int velocidadMaxima;
