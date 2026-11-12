@@ -38,4 +38,3 @@ public class Gerente extends Empleado {
         ger.mostrarDetalles();
     }
 }
-// Ejercicio 3 Taller 8
