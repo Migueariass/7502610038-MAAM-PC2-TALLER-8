@@ -34,3 +34,4 @@ public class Coche extends Vehiculo {
         miCoche.mostrarInformacionCoche();
     }
 }
+// Ejercicio 1 completado
