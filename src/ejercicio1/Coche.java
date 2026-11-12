@@ -35,4 +35,3 @@ public class Coche extends Vehiculo {
     }
 }
 
-// Actualizacion mensaje ejercicio 1
