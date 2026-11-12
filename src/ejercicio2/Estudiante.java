@@ -34,4 +34,3 @@ public class Estudiante extends Persona {
         est.mostrarDetalles();
     }
 }
-// Ejercicio 2 Taller 8
