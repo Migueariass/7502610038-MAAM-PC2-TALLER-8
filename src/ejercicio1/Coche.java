@@ -34,6 +34,5 @@ public class Coche extends Vehiculo {
         miCoche.mostrarInformacionCoche();
     }
 }
-// Ejercicio 1 completado
 
-// Ejercicio 1 Taller 8
+// Actualizacion mensaje ejercicio 1
